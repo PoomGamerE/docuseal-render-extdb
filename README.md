@@ -2,7 +2,7 @@
 
 The deploy button on the Render platform. [DocuSeal](https://www.docuseal.com/) is an open source DocuSign alternative
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/docusealco/docuseal-render)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/PoomGamerE/docuseal-render-extdb)
 
 ## How to update?
 
